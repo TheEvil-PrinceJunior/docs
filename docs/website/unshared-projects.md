@@ -35,12 +35,10 @@ Unshared projects were always something that just happened to work and weren't t
 
 There are ways to generate links that include a temporary project token that will work for a few minutes using tools that Scratch policies do not let us discuss. For more, see [?token=](url-parameters#token).
 
-## This is a good thing {#good-thing}
+## This is a bad thing {#bad-thing}
 
-Securing unshared projects is a decade overdue.
+Securing unshared projects is dumb af.
 
-Don't pretend that no one has had their project stolen because they didn't know unshared projects aren't actually private even though the Scratch website says "only you can see it". Many unshared projects include pictures and videos of children, their friends, their family, and other personal information under the assumption that unshared projects are actually private.
+we are fixing this issue as soon as possible. Check back in 2 months.
 
-In most other large websites, "unshared" or "private" things actually being effectively public would be considered a critical security bug and would usually be eligible for a very large bug bounty. ([example](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/))
-
-We've always had the stance that if people want unshared projects to actually be private, they should talk to the Scratch Team, and perhaps enough people did that for the Scratch Team to listen.
+and Ban Lemmyiggy11 from scratch she's a cunt
